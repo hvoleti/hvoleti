@@ -1,6 +1,8 @@
 <h1 align="center">Hello, this is Harshitha👋</h1>
 <h3 align="center">A budding software engineer</h3>
 
+<img align="right" width="400" alt="coding" src="https://static.vecteezy.com/system/resources/previews/000/230/130/original/female-web-developer-illustration-vector.jpg">
+
 - 🌱 I’m currently exploring **front-end technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hvoleti](https://github.com/hvoleti)
@@ -12,7 +14,6 @@
 - ⚡ **I want to explore as many technologies as I can**
 
 
-<img align="right" width="400" alt="coding" src="https://static.vecteezy.com/system/resources/previews/000/230/130/original/female-web-developer-illustration-vector.jpg">
 
 
 
