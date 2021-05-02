@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hvoleti](https://github.com/hvoleti)
 
-- 🌱 I'm also trying to learn **android development**
-
 - 📫 How to reach me **harshuvoleti@gmail.com**
 
 - ⚡ **I want to explore as many technologies as I can**
